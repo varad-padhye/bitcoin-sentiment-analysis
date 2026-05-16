@@ -5,6 +5,14 @@ This analysis evaluates the impact of psychological market regimes—ranging fro
 
 ---
 
+## Data Sources
+
+The quantitative conclusions in this documentation are derived and validated utilizing the following underlying data layers:
+1. **Trading Execution History (`historical_data.csv`):** Comprehensive trade-by-trade ledger tracking execution prices, position directions, transaction sizes (USD/Tokens), asset specifications, and realized PnL boundaries.
+2. **Market Psychology Tracking (`fear_greed_index.csv`):** Chronological timeline capturing the foundational index values and categorical classifications representing emotional sentiment structures over time.
+
+---
+
 ## Quantitative Risk Metrics Overview
 
 The following metrics represent the performance boundaries and efficiency across different emotional regimes.
