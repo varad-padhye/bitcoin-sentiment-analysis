@@ -1,4 +1,4 @@
-# bitcoin-sentiment-analysis
+
 # Market Sentiment and Risk Regime Analysis
 
 This analysis evaluates the impact of psychological market regimes—ranging from **Extreme Fear** to **Extreme Greed**—on trading performance and risk-to-reward dynamics within the **Hyperliquid** ecosystem. The data confirms that market sentiment is not merely a psychological indicator but a fundamental driver of volatility and profitability distributions.
